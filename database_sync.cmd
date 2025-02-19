@@ -1,1 +1,0 @@
-dotnet ef dbcontext scaffold 'Server=192.168.0.248;Database=task_monitor2;Uid=root;Pwd=t00r@1123#;Allow Zero Datetime=true;convert zero datetime=True;old guids=True;'Pomelo.EntityFrameworkCore.MySql -c DBContext -o Databases/TM -f -v --no-build --no-onconfiguring --no-pluralize
