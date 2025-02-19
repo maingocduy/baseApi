@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Versioning;
-using TaskMonitor.Enums;
-using TaskMonitor.Extensions;
-namespace TaskMonitor.Models.Response
+using BaseApi.Enums;
+using BaseApi.Extensions;
+namespace BaseApi.Models.Response
 {
     public class BaseResponse
     {

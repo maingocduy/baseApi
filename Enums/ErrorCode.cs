@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace TaskMonitor.Enums
+namespace BaseApi.Enums
 {
     public enum ErrorCode
     {

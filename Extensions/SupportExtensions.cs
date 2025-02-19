@@ -1,9 +1,9 @@
 ﻿using Newtonsoft.Json;
-using TaskMonitor.Enums;
-using TaskMonitor.Models.Response;
-using TaskMonitor.Utils;
+using BaseApi.Enums;
+using BaseApi.Models.Response;
+using BaseApi.Utils;
 
-namespace TaskMonitor.Extensions
+namespace BaseApi.Extensions
 {
     public static class SupportExtension
     {

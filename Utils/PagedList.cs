@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace TaskMonitor.Utils
+namespace BaseApi.Utils
 {
     public class PagedList<T> : List<T>
     {

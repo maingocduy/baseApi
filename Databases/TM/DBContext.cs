@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace TaskMonitor.Databases.TM;
+namespace BaseApi.Databases.TM;
 
 public partial class DBContext : DbContext
 {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TaskMonitor.Databases.TM;
+namespace BaseApi.Databases.TM;
 
 public partial class Branches
 {

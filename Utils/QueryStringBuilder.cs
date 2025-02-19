@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace TaskMonitor.Utils
+namespace BaseApi.Utils
 {
     public class QueryStringBuilder
     {

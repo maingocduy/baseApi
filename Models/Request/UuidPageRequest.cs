@@ -1,6 +1,6 @@
-﻿using TaskMonitor.Models.Request;
+﻿using BaseApi.Models.Request;
 
-namespace TaskMonitor.Models.Request
+namespace BaseApi.Models.Request
 {
     public class UuidPageRequest : BaseKeywordPageRequest
     {

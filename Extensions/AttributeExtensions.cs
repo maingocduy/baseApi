@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Reflection;
 
-namespace TaskMonitor.Extensions
+namespace BaseApi.Extensions
 {
     public static class AttributeExtensions
     {

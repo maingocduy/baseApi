@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace TaskMonitor.Utils
+namespace BaseApi.Utils
 {
     public class MD5Util
     {

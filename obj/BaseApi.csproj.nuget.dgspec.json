@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\base\\BaseApi\\BaseApi.csproj": {}
+    "E:\\work\\baseApi\\BaseApi.csproj": {}
   },
   "projects": {
-    "D:\\work\\base\\BaseApi\\BaseApi.csproj": {
+    "E:\\work\\baseApi\\BaseApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\base\\BaseApi\\BaseApi.csproj",
+        "projectUniqueName": "E:\\work\\baseApi\\BaseApi.csproj",
         "projectName": "BaseApi",
-        "projectPath": "D:\\work\\base\\BaseApi\\BaseApi.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\base\\BaseApi\\obj\\",
+        "projectPath": "E:\\work\\baseApi\\BaseApi.csproj",
+        "packagesPath": "C:\\Users\\duy\\.nuget\\packages\\",
+        "outputPath": "E:\\work\\baseApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

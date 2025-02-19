@@ -1,6 +1,6 @@
-﻿using TaskMonitor.Databases.TM;
+﻿using BaseApi.Databases.TM;
 
-namespace TaskMonitor.Utils
+namespace BaseApi.Utils
 {
     public class TokenInfo
     {

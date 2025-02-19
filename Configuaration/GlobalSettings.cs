@@ -1,4 +1,4 @@
-﻿namespace TaskMonitor.Configuaration
+﻿namespace BaseApi.Configuaration
 {
     public class GlobalSettings
     {

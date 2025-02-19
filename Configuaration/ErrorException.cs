@@ -1,6 +1,6 @@
-﻿using TaskMonitor.Enums;
+﻿using BaseApi.Enums;
 
-namespace TaskMonitor.Configuaration
+namespace BaseApi.Configuaration
 {
     public class ErrorException : Exception
     {

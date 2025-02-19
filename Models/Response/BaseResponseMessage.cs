@@ -1,4 +1,4 @@
-﻿namespace TaskMonitor.Models.Response
+﻿namespace BaseApi.Models.Response
 {
     public class BaseResponseMessage<T> : BaseResponse
     {

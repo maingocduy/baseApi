@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using NLog.Extensions.Logging;
-using TaskMonitor.Databases.TM;
-namespace TaskMonitor.Extensions
+using BaseApi.Databases.TM;
+namespace BaseApi.Extensions
 {
     public static class ServiceExtension
     {

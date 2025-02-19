@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using TaskMonitor.Models.BaseRequest;
+using BaseApi.Models.BaseRequest;
 
-namespace TaskMonitor.Models.Request
+namespace BaseApi.Models.Request
 {
     public class LogInRequest : DpsParamBase
     {

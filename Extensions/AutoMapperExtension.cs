@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
-using TaskMonitor.Models.DataInfo;
-using TaskMonitor.Models.Request;
-using TaskMonitor.Utils;
+using BaseApi.Models.DataInfo;
+using BaseApi.Models.Request;
+using BaseApi.Utils;
 
-namespace TaskMonitor.Extensions
+namespace BaseApi.Extensions
 {
     public class AutoMapperExtension : Profile
     {

@@ -1,8 +1,8 @@
 ﻿using Newtonsoft.Json.Linq;
 using System.Net;
-using TaskMonitor.Configuaration;
+using BaseApi.Configuaration;
 
-namespace TaskMonitor.Utils
+namespace BaseApi.Utils
 {
     public class HttpService
     {

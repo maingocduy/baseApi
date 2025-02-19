@@ -1,4 +1,4 @@
-﻿namespace TaskMonitor.Utils
+﻿namespace BaseApi.Utils
 {
     public class TokenManager
     {

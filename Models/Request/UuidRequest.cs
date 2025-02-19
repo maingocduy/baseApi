@@ -1,7 +1,7 @@
-﻿using TaskMonitor.Models.BaseRequest;
+﻿using BaseApi.Models.BaseRequest;
 using System.ComponentModel.DataAnnotations;
 
-namespace TaskMonitor.Models.Request
+namespace BaseApi.Models.Request
 {
     public class UuidRequest : DpsParamBase
     {
